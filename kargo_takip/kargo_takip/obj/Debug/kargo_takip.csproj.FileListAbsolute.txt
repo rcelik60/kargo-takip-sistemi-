@@ -1,0 +1,13 @@
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\bin\Debug\kargo_takip.exe.config
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\bin\Debug\kargo_takip.exe
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\bin\Debug\kargo_takip.pdb
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.csproj.AssemblyReference.cache
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.Properties.Resources.resources
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.csproj.GenerateResource.cache
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.csproj.CoreCompileInputs.cache
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.exe
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.pdb
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.anasayfa.resources
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.uye_ol.resources
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.uye.resources
+C:\Users\rc\Desktop\kargo_takip\kargo_takip\kargo_takip\obj\Debug\kargo_takip.personel.resources
